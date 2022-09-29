@@ -1,6 +1,6 @@
 # Correlation-Analysis
-all about Correlation Analysis
-CONTENT
+all about Correlation Analysis  <br />
+CONTENT  <br />
 1)what is correlation?  <br />
 2)how to plot correlation matrics <br />
 3)types of correlation,its signification <br />
