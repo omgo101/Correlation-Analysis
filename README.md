@@ -1,6 +1,7 @@
 # Correlation-Analysis
 all about Correlation Analysis  <br />
 ## CONTENT  <br />
+#### if we correlation between two categorical variable we use pps score 
 ### Correlation analysis <br />
 1)what is correlation?  <br />
 2)how to plot correlation matrics <br />
